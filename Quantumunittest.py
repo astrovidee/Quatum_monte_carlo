@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Fri Jan 11 10:02:34 2019
+Created on Sat Dec 1 21:25:32 2018
+Description: These are unit test functions for the code Quantum_monte_carlo.py
 
 @author: Vidya Venkatesan
 """
